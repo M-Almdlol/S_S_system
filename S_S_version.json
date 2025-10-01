@@ -1,5 +1,5 @@
 {
-  "version": "1.4.5",
-  "download_url": "https://www.dropbox.com/scl/fi/fzyre6jjyfh45fbfc6ldk/v1.4.5_.exe?rlkey=q0hri0njzoc8v0y46egeghvcz&st=yyaugavm&dl=1",
-  "changelog": "إصلاحات الأخطاء وتحسينات الأداء \n تحسين واجهة توزيع الحصص \n تحسين واجهة التعديل اليدوي \n تحسين نظام التفعيل \n تحسين ظيفة الاضافة و الحذف بأستخدام لوحة المفاتيح \n يرجى التواصل مع المطور مباشرةً بعد التحديث \n في حال تم الغاء تفعيل البرنامج"
+  "version": "1.4.7",
+  "download_url": "https://www.dropbox.com/scl/fi/pbaxrn8ijtdbz2wjvvs4a/v1.4.7_.exe?rlkey=zfhseopf2varii4zf8jzu8oom&st=baf7ajt6&dl=1",
+  "changelog": " اضافة امكانية اختيار عدد الحصص اليومية من الاعدادات \n اضافة مدير التفرغ الى واجهة الصفوف الدراسية \n تحسين الأداء العام \n تحديث آمن و لا يحتاج لاعادة تفعيل"
 }
